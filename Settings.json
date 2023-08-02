@@ -1,8 +1,8 @@
 {
-    "metamask_address": "",
-    "metamask_private_key": "" ,
+    "metamask_address": "metaadd",
+    "metamask_private_key": "metakey" ,
 
-    "RPC": "https://bsc-dataseed.binance.org/",
+    "RPC": "rpcnode",
 
     "GWEI_GAS": 6,
     
@@ -14,7 +14,7 @@
     "MaxSellTax": 25,
     "MaxBuyTax": 15,
 
-    "timeout": 120,
+    "timeout": 121,
     "SaveGasCost": true,
 
     "cc_BlacklistWords": [
